@@ -1,8 +1,3 @@
- _            _   _         _     _  __
-| |_    ___  | | | |  ___  | |   (_) \ \
-| ' \  / -_) | | | | / _ \ |_|    _   | |
-|_||_| \___| |_| |_| \___/ (_)   ( )  | |
-
 # Teste para candidatos à vaga de desenvolvedor Front-end
 
 ### INSTRUCOES
